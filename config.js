@@ -22,11 +22,11 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
+global.ownername = '𝑺𝑯𝑨𝑵𝑰 𝑷𝑹𝑰𝑵𝑪𝑬 𝑯𝑨𝑪𝑲𝑬𝑹 𝑶𝑭𝑭𝑰𝑪𝑰𝑨𝑳';
+global.owner = ['923485964644'];
+global.premium = ['923485964644'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.author = '𝐒𝐇𝐀𝐍𝐈 𝐏𝐑𝐈𝐍𝐂𝐄 𝐇𝐀𝐂𝐊𝐄𝐑';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
